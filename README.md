@@ -4,8 +4,8 @@
 
 Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer in Test (SDET)** from Barcelona. My passion for keep growing lies with become a referent on quality of software. I take great care in the experience, architecture, and code quality of the things I build.
 
-![Linkedin Badge](https://img.shields.io/badge/-ferraobox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ferrao-a09469b7/)
-![Gmail Badge](https://img.shields.io/badge/-ferraobox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferraobox@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ferraobox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ferrao-a09469b7/)](https://www.linkedin.com/in/carlos-ferrao-a09469b7/)
+[![Gmail Badge](https://img.shields.io/badge/-ferraobox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferraobox@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 
 ### Languages
 
