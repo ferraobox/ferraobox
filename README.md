@@ -6,7 +6,7 @@ Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer i
 
 [![Linkedin Badge](https://img.shields.io/badge/-ferraobox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ferrao-a09469b7/)](https://www.linkedin.com/in/carlos-ferrao-a09469b7/)
 [![Gmail Badge](https://img.shields.io/badge/-ferraobox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferraobox@gmail.com)](mailto:ferraobox@gmail.com)
-[![Twitter](https://img.shields.io/badge/<ferraobox>-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ferraobox)
+[![Twitter](https://img.shields.io/badge/ferraobox-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ferraobox)
 
 ### Languages
 
@@ -21,13 +21,13 @@ Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer i
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node](https://img.shields.io/badge/-NodeJs-000?&logo=node-dot-js)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
+![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![npm](https://img.shields.io/badge/-npm-000?&logo=npm)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-000?&logo=Android)
 ![MacOs](https://img.shields.io/badge/-MacOs-000?&logo=MacOs)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
