@@ -6,7 +6,7 @@ Hi, I'm Carlos Ferrao a passionate self-taught **Software Development Engineer i
 
 [![Linkedin Badge](https://img.shields.io/badge/-ferraobox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-ferrao-a09469b7/)](https://www.linkedin.com/in/carlos-ferrao-a09469b7/)
 [![Gmail Badge](https://img.shields.io/badge/-ferraobox@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ferraobox@gmail.com)](mailto:ferraobox@gmail.com)
-[![ferraobox](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ferraobox)
+[![Twitter](https://img.shields.io/badge/<ferraobox>-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ferraobox)
 
 ### Languages
 
